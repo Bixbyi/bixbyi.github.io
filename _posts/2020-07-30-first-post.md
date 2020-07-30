@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "안녕하냐 용사여...? 여긴 이세카이라네 (우욱)"
 date: 2020-07-30 07:18:27 -0400
 categories: 초보 샌즈 sans.html
 ---
