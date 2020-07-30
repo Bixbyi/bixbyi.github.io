@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+date: 2020-07-30 07:18:27 -0400
 categories: 초보 샌즈 sans.html
 ---
 초보입니다 (궁서체로)
