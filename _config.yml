@@ -16,10 +16,10 @@
 remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "빅스비가 노는 곳임"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "ㅈ같아도 참으셈 " # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://bixbyi.github.io/" 
