@@ -98,7 +98,7 @@ author:
   avatar           : "assets/profile/2795dbdc88ff9b013a349b3e3abda3c8 (1).png" # pah of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "대한민국! (ㅉㅉ ㅉㅉㅉ)"
-  email            :"qqq0www1@gmail.com"
+  email            : 
   links:
     - label: "내 이메일임"
       url: "qqq0www1@gmail.com"
